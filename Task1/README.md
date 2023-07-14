@@ -34,15 +34,20 @@ However, for both parts, not all the dataset was used since it was causing memor
 ## Sample after training
 After the first stage of training, the model results were the following:
 
-![In the left column, the input image, in the right column, the reconstructed image](images/1250.png)
+![In the left column, the input image, in the right column, the reconstructed image](images/1250.png#center)
 
 After the second stage of training, the model output was:
 
 ![Prompt: 'an old man smiling wearing a hat'](images/0.PNG)
+Prompt: 'an old man smiling wearing a hat'
 ![Prompt: 'young girl blowing out candles on her birthday cake'](images/1.PNG)
+Prompt: 'young girl blowing out candles on her birthday cake'
 ![Prompt: 'a kid with long and red hair'](images/2.PNG)
+Prompt: 'a kid with long and red hair'
 ![Prompt: 'blue'](images/3.PNG)
+Prompt: 'blue'
 ![Prompt: 'red'](images/4.PNG)
+Prompt: 'red'
 
 ## Parameters
 During each stage of the training, I got two different numbers of parameters, I think the difference could be the "Super-Resolution Upsampler" mentioned in the papar.
