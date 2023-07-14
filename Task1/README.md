@@ -38,7 +38,7 @@ After training the first stage of the model, the results obtained were the follo
 
 After training the second stage of the model:
 
-![Prompt: 'an old man smiling wearing a hat'](./images/0.png)
+![Prompt: 'an old man smiling wearing a hat'](images/0.PNG)
 ![Prompt: 'young girl blowing out candles on her birthday cake'](/images/1.png)
 ![Prompt: 'a kid with long and red hair'](images/2.png)
 ![Prompt: 'blue'](images/3.png)
