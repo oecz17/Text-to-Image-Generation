@@ -45,7 +45,7 @@ After the first stage of training, the model results were the following:
 After the second stage of training, the model output was:
 
 <p align="center">
-<img src="images/0.PNG" alt="Image" width="100%" height="100%" />
+<img src="images/0.PNG" alt="Image" width="20%" height="20%" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ After the second stage of training, the model output was:
 </p>
 
 <p align="center">
-<img src="images/1.PNG" alt="Image" width="100%" height="100%" />
+<img src="images/1.PNG" alt="Image" width="20%" height="20%" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ After the second stage of training, the model output was:
 </p>
 
 <p align="center">
-<img src="images/2.PNG" alt="Image" width="100%" height="100%" />
+<img src="images/2.PNG" alt="Image" width="20%" height="20%" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ After the second stage of training, the model output was:
 </p>
 
 <p align="center">
-<img src="images/3.PNG" alt="Image" width="100%" height="100%" />
+<img src="images/3.PNG" alt="Image" width="20%" height="20%" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ After the second stage of training, the model output was:
 </p>
 
 <p align="center">
-<img src="images/4.PNG" alt="Image" width="100%" height="100%" />
+<img src="images/4.PNG" alt="Image" width="20%" height="20%" />
 </p>
 
 <p align="center">
