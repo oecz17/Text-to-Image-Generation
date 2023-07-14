@@ -34,9 +34,12 @@ However, for both parts, not all the dataset was used since it was causing memor
 ## Sample after training
 After the first stage of training, the model results were the following:
 
-{:.center}
-In the left column, the input image, in the right column, the reconstructed image:
-![In the left column, the input image, in the right column, the reconstructed image](images/1250.png#center)
+<img src="images/1250.png" alt="Image" width="262" height="1042" />
+</p>
+
+<p align="center">
+  Caption: In the left column, the input image, in the right column, the reconstructed image:
+</p>
 
 After the second stage of training, the model output was:
 
