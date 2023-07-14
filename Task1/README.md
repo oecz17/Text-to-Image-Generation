@@ -34,35 +34,59 @@ However, for both parts, not all the dataset was used since it was causing memor
 ## Sample after training
 After the first stage of training, the model results were the following:
 
+<p align="center">
 <img src="images/1250.png" alt="Image" width="262" height="1042" />
 </p>
 
 <p align="center">
-  Caption: In the left column, the input image, in the right column, the reconstructed image:
+  In the left column, the input image, in the right column, the reconstructed image:
 </p>
 
 After the second stage of training, the model output was:
 
-![Prompt: 'an old man smiling wearing a hat'](images/0.PNG)
-Prompt: 'an old man smiling wearing a hat'
+<p align="center">
+<img src="images/0.PNG" alt="Image" width="100%" height="100%" />
+</p>
 
-![Prompt: 'young girl blowing out candles on her birthday cake'](images/1.PNG)
-Prompt: 'young girl blowing out candles on her birthday cake'
+<p align="center">
+  Prompt: 'an old man smiling wearing a hat'
+</p>
 
-![Prompt: 'a kid with long and red hair'](images/2.PNG)
-Prompt: 'a kid with long and red hair'
+<p align="center">
+<img src="images/1.PNG" alt="Image" width="100%" height="100%" />
+</p>
 
-![Prompt: 'blue'](images/3.PNG)
-Prompt: 'blue'
+<p align="center">
+  Prompt: 'young girl blowing out candles on her birthday cake'
+</p>
 
-![Prompt: 'red'](images/4.PNG)
-Prompt: 'red'
+<p align="center">
+<img src="images/2.PNG" alt="Image" width="100%" height="100%" />
+</p>
+
+<p align="center">
+  Prompt: 'a kid with long and red hair'
+</p>
+
+<p align="center">
+<img src="images/3.PNG" alt="Image" width="100%" height="100%" />
+</p>
+
+<p align="center">
+  Prompt: 'blue'
+</p>
+
+<p align="center">
+<img src="images/4.PNG" alt="Image" width="100%" height="100%" />
+</p>
+
+<p align="center">
+  Prompt: 'red'
+</p>
 
 ## Parameters
 During each stage of the training, I got two different numbers of parameters, I think the difference could be the "Super-Resolution Upsampler" mentioned in the papar.
 - Model parameters during 1st stage: 163.48M
 - Model parameters during 2nd stage: 169.58M
 - Text encoding model parameters: T5 - large 770M
-
-## Evaluation metric
 
